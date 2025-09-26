@@ -2,11 +2,11 @@
 
 [Artificial Intelligence for Oil and Gas Without the Hype](https://rio2025.iceevent.org/Program/Short-Courses/Short-Course/articleid/68912)
 
-- Pedro Pesce <<pedro_pesce@petrobras.com.br>>
-- Thiago Toribio <<thiago.toribio@petrobras.com.br>>
-- Cesar Calderon <<cjcalderon@petrobras.com.br>>
-- Luiz Eduardo Queiroz <<eduardoqueiroz@petrobras.com.br>>
-- Antonio de Padua Pires <<antonio.pires@petrobras.com.br>>
+- <img src="https://img.aapg.org/Portals/0/images/ice/2025/Pedro-Barros-Cotta-Pesce.jpg" width=100 align="center"/> Pedro Pesce <<pedro_pesce@petrobras.com.br>> 
+- <img src="https://img.aapg.org/Portals/0/images/ice/2025/Thiago-de-Miranda-Leao.jpg" width=100 align="center"/> Thiago Toribio <<thiago.toribio@petrobras.com.br>> 
+- <img src="https://img.aapg.org/Portals/0/images/ice/2025/Cesar-Jose-Calderon.jpg" width=100 align="center"/> Cesar Calderon <<cjcalderon@petrobras.com.br>>
+- <img src="https://img.aapg.org/Portals/0/images/ice/2025/Luiz-Eduardo-Silva.jpg" width=100 align="center"/> Luiz Eduardo Queiroz <<eduardoqueiroz@petrobras.com.br>>
+- <img src="https://img.aapg.org/Portals/0/images/ice/2025/Antonio-De-Padua.jpg" width=100 align="center"/> Antonio de Padua Pires <<antonio.pires@petrobras.com.br>>
 
 Slides [https://github.com/paduapires/aapg_ice/blob/main/AI_for_O%26G_without_the_hype_ICE_AAPG.pdf]
 
