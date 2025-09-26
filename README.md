@@ -1,4 +1,13 @@
-# aapg_ice
+# AAPG/ICE 2025
+
+[Artificial Intelligence for Oil and Gas Without the Hype](https://rio2025.iceevent.org/Program/Short-Courses/Short-Course/articleid/68912)
+
+- Pedro Pesce <<pedro_pesce@petrobras.com.br>>
+- Thiago Toribio <<thiago.toribio@petrobras.com.br>>
+- Cesar Calderon <<cjcalderon@petrobras.com.br>>
+- Luiz Eduardo Queiroz <<eduardoqueiroz@petrobras.com.br>>
+- Antonio de Padua Pires <<antonio.pires@petrobras.com.br>>
+
 Slides [https://github.com/paduapires/aapg_ice/blob/main/AI_for_O%26G_without_the_hype_ICE_AAPG.pdf]
 
 1) Multilinear Regression:
