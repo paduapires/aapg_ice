@@ -1,5 +1,5 @@
 # aapg_ice
-
+Slides [https://github.com/paduapires/aapg_ice/blob/main/AI_for_O%26G_without_the_hype_ICE_AAPG.pdf]
 
 1) Multilinear Regression:
    - Complete: <a href="https://colab.research.google.com/github/paduapires/aapg_ice/blob/main/Multilinear_regression_complete.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
